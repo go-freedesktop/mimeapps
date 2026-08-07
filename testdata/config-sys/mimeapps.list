@@ -1,0 +1,12 @@
+[Default Applications]
+text/plain=org.example.SysText.desktop;
+text/html=org.example.Browser.desktop;
+image/png=org.example.Viewer.desktop;
+application/pdf=org.example.Ghost.desktop;
+
+[Added Associations]
+text/plain=org.example.SysText.desktop;
+text/html=org.example.Browser.desktop;
+
+[Removed Associations]
+text/plain=org.example.Editor.desktop;

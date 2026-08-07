@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Example Browser
+Exec=browser %U
+MimeType=text/html;image/png;
