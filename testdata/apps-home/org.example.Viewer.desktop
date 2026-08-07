@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Example Viewer
+Exec=viewer %F
+MimeType=image/png;

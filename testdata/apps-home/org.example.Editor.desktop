@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Example Editor
+Exec=editor %F
+MimeType=text/plain;text/markdown;

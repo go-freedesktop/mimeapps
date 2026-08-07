@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=System Text
+Exec=systext %F
+MimeType=text/plain;

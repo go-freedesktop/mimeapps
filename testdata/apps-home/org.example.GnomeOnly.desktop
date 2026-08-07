@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Gnome Only
+Exec=gnome-only %F
+OnlyShowIn=GNOME
+MimeType=text/plain;
